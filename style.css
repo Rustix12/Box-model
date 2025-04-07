@@ -1,3 +1,5 @@
+
+
 *{
     margin: 0;
     padding: 0;
@@ -66,4 +68,28 @@
     font-size: 26px;
     color: rgb(85, 82, 82);
     margin: 0 2;
+}
+
+.star-selected{
+    font-size: 26px;
+    color: gold;
+    margin: 0 2;
+}
+
+.price{
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.button{
+    margin-top: 15px;
+    padding: 15px 30px;
+    background-color: red;
+    font-size: 15px;
+
+}
+
+.button:hover{
+    background-color: crimson;
+    cursor: pointer;
 }
